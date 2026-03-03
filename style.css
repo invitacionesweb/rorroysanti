@@ -1,6 +1,6 @@
 :root {
     --color-principal:#EAE7E2;
-    --color-secundario:#8D9DAB;
+    --color-secundario:#26496b;
     --color-terciario:#000000;
     --font-principal:'MiTipografia', sans-serif;
     --font-secundaria:'Ibarra Real Nova', serif;
@@ -66,6 +66,7 @@ header p {
     animation-duration: 5s;
 }
 header img {
+    width: 300px;
     animation-name: texto;
     animation-duration: 5s;
 }
@@ -250,7 +251,7 @@ audio::-webkit-media-controls-current-time-display {
     justify-content: center;
 }
 .information .bloque2 img {
-    width: 60px;
+    width: 80px;
 
 }
 .bloque2 p{
